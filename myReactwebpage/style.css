@@ -1,0 +1,175 @@
+/*,
+*::before,
+*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+*/
+
+
+#profile_img{
+    border: 10px solid blue;
+    display: flex;
+    height: 300px;
+    width: 300px; 
+    position: relative;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom:100px;
+}
+
+
+#slack{
+    display: none;
+    height: 50px;
+    width: 200px; 
+    font-family: "helvetica",sans-serif;
+    color: black;
+    font-weight: 500px;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom:200px;
+}
+
+
+#twitter{
+    display: grid;
+    height: 50px;
+    width: 200px; 
+    font-family: "helvetica",sans-serif;
+    color: black;
+    font-weight: 500px;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom:150px;
+}
+
+  #btn_zuri {
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+#books{
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 150px;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+#books_python{
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 300px;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+#pitch{
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 450px;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+#book_design{
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 600px;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+/*a{
+    display: grid;
+    height: 50px;
+    width: 250px;
+    background-color: beige;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    place-items: center;
+    font-family: "helvetica",sans-serif;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+*/
